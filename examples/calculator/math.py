@@ -1,5 +1,8 @@
+"""Basic math functions"""
+
+
 def add(a, b):
-    """Add w numbers together"""
+    """Add two numbers together"""
 
     return a + b
 

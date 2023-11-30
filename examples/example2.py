@@ -14,7 +14,8 @@ def find_max(input_list: list):
         IndexError: For an empty list
     """
 
-    max_value = input_list[1]  # Error - should be 0
+    max_value = input_list[1]
+
     for num in input_list[1:]:
         if num > max_value:
             max_value = num

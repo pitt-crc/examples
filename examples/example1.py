@@ -17,5 +17,4 @@ def divide(x: float, y: float) -> float:
     if y == 0:
         return float('inf')
 
-    # This is a bug. It should be x / y.
     return x // y
