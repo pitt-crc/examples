@@ -1,4 +1,4 @@
-"""Example 1: Finding the maximum value."""
+"""Example 2: Finding the maximum value."""
 
 
 def find_max(input_list: list):
